@@ -21,11 +21,18 @@ layout:
 
 # 💻 CS lingo
 
-## headline one
+## headline 1th
 
-6666
+### headline 2th
 
-```python
-print("hello world")
-```
+#### headline 3th
+
+
+
+* **DVCS**: distributed version control system.
+* **NSFW:** not safe for work.
+
+
+
+
 
