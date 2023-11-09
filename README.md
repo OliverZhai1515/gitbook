@@ -1,5 +1,5 @@
 ---
-description: some lingos in computer science area.
+description: some lingoes in computer science area.
 cover: >-
   https://images.unsplash.com/photo-1694724451103-69574910c7f5?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTk0NTQ2Mjh8&ixlib=rb-4.0.3&q=85
 coverY: 224
@@ -21,10 +21,11 @@ layout:
 
 # 💻 CS lingo
 
-## some lingos
+## some lingoes
 
 * **DVCS**: distributed version control system.
 * **NSFW:** not safe for work.
+* **i18n**: internationalization.
 
 ## headline 1st
 
@@ -32,7 +33,7 @@ layout:
 
 headline 3rd
 
-there is a paragraph.
+there is a paragraph.&#x20;
 
 ```python
 // some codes
