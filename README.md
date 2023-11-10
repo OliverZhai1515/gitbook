@@ -21,7 +21,11 @@ layout:
 
 # 💻 CS lingo
 
-## some lingoes
+##
+
+one beautiful color: `#0081ff`\`&#x20;
+
+some lingoes
 
 * **DVCS**: distributed version control system.
 * **NSFW:** not safe for work.
